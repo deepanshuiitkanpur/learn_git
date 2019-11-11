@@ -12,3 +12,7 @@ else:
     print('nooooo')
 
 lets make more changes............
+ are you thirsty?
+ if yes
+ drink water
+ 
