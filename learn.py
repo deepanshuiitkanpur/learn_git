@@ -10,12 +10,3 @@ if lets_code == "yes" :
     print('hurray')
 else:
     print('nooooo')
-
-lets make more changes............
-
-kdnfdsdjdjcnsdjcndsjbvdsbv
-drink water
-
-dfdfdshfdshfdsh
-sdddds
-sdddds
