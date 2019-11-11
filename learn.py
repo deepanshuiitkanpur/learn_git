@@ -10,3 +10,7 @@ if lets_code == "yes" :
     print('hurray')
 else:
     print('nooooo')
+
+data = pd.DataFrame()
+data['a']= [1,2,3,4,5]
+data['b']= ['a','b','c','d','e']
